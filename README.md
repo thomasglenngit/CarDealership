@@ -14,6 +14,8 @@
 
 # **REQUIREMENTS**
 
+(CLONE THIS REPO DOWN BEFORE WORKING ON IT AGAIN. LOCAL FILE NOT UP TO DATE WITH CURRENT MASTER).
+
 _[Visual Studio Code](https://code.visualstudio.com/)_
 
 _[.Net Core v2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2)_
@@ -70,6 +72,8 @@ _**No known bugs as of:** _
 # **❤️Contributors**
 
  [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/joseph-pearce.jpeg' width='160px;'/><br /><sub><b>Joseph Pearce</b></sub>](https://www.linkedin.com/in/pjosephpearce/)<br />
+ 
+ [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/thomas-glenn.jpeg' width='160px;'/><br /><sub><b>Thomas Glenn</b></sub>](https://www.linkedin.com/in/glennergy/)<br />
 
 <br>
 
